@@ -4,7 +4,9 @@ Ce dossier Repository est lié au cours `L'essentiel de JavaScript`. Le cours en
 
 ![L'essentiel de JavaScript][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Avec Damien Bruyndonckx, lancez-vous dans JavaScript, le langage de programmation pour pages web interactives et pour serveurs le plus utilisé au monde. Après un tour d'horizon des notions et des prérequis, votre formateur entrera dans le vif du sujet avec les données, les boucles, les conditions, les fonctions et les objets. Vous aborderez des cas concrets, avec la création et l'animation d'une galerie de photos puis, la formation se terminera sur l'intégration de jQuery et des bibliothèques, ainsi que les bonnes pratiques pour créer du code de qualité. À la fin de cette formation, vous aurez construit une base solide pour utiliser et approfondir vos connaissances sur JavaScript.</br></br>
+
+Ce cours inclut des défis de code générés dans CoderPad. Ce sont des exercices interactifs avec des retours en temps réel, vous permettant de pratiquer de manière pratique en parallèle avec le contenu du cours pour améliorer vos compétences en programmation.
 
 ## Instructions
 
@@ -26,8 +28,8 @@ Notez que l'installation et la configuration des logiciels est expliquées dans 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-javascript-2/
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-javascript-2
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2919348/2919348-1568015213813-16x9.jpg
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/damien-bruyndonckx
 
 [1]: # (End of FR-Instruction ###############################################################################################)
