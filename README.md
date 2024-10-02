@@ -29,7 +29,7 @@ Notez que l'installation et la configuration des logiciels est expliquées dans 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-javascript-2
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2919348/2919348-1568015213813-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG-PgvQQTlfzw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1727854597026?e=2147483647&v=beta&t=hfBnqD3t-6TcEScKKcv9WuonhFJ85-KQzT-P7vPjW0w
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/damien-bruyndonckx
 
 [1]: # (End of FR-Instruction ###############################################################################################)
