@@ -1,8 +1,12 @@
-var a = 2, b = 3, result;
+let a = 2,
+  b = 3,
+  result;
 
-function addNumbers(){
-    result = a + b;
-    console.log(result);
+function addNumbers(num1 = 2, num2 = 3) {
+  result = num1 + num2;
+  console.log(result);
+  console.log(num2);
 }
 
-addNumbers();
+addNumbers(4);
+addNumbers(3, 8);
